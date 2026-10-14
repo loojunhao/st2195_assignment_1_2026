@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+loojunhao was here at 5:11pm
+junhao checked this out at 5:16pm again
+=======
+loojunhao was here editing again on 5:29pm
+>>>>>>> master
